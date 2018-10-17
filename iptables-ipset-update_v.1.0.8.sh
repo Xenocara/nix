@@ -109,8 +109,6 @@ links[18]=https://iplists.firehol.org/files/normshield_all_spam.ipset
 #links[25]=https://iplists.firehol.org/files/cleanmx_phishing.ipset
 
 
-
-#####
 fetchLists(){
         for url in ${!links[@]}
         do
