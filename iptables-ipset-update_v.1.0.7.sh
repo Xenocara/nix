@@ -90,10 +90,6 @@ links[6]=https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/norms
 links[7]=https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_all_bruteforce.ipset
 links[8]=https://iplists.firehol.org/files/normshield_all_attack.ipset
 
-
-
-
-#####
 fetchLists(){
         for url in ${!links[@]}
         do
