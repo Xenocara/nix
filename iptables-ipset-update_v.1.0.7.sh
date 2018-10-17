@@ -89,23 +89,7 @@ links[5]=https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/fireh
 links[6]=https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_high_bruteforce.ipset
 links[7]=https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/normshield_all_bruteforce.ipset
 links[8]=https://iplists.firehol.org/files/normshield_all_attack.ipset
-links[9]=https://iplists.firehol.org/files/normshield_high_suspicious.ipset
-links[10]=https://iplists.firehol.org/files/normshield_all_suspicious.ipset
-links[11]=https://iplists.firehol.org/files/sblam.ipset
-links[12]=https://iplists.firehol.org/files/firehol_webclient.netset
-links[13]=https://iplists.firehol.org/files/firehol_anonymous.netset
-links[14]=https://iplists.firehol.org/files/pushing_inertia_blocklist.netset
-links[15]=https://iplists.firehol.org/files/firehol_webserver.netset
-links[16]=https://iplists.firehol.org/files/talosintel_ipfilter.ipset
-links[17]=https://iplists.firehol.org/files/blocklist_net_ua.ipset
-# Following lines are added for mail servers.
-links[18]=https://iplists.firehol.org/files/cleanmx_phishing.ipset
-links[19]=https://iplists.firehol.org/files/cleanmx_viruses.ipset
-links[20]=https://iplists.firehol.org/files/normshield_all_spam.ipset
-links[21]=https://iplists.firehol.org/files/bi_dovecot-pop3imap_0_1d.ipset
-links[22]=https://iplists.firehol.org/files/bi_dovecot-pop3imap_0_1d.ipset
-links[23]=https://iplists.firehol.org/files/bi_dovecot_2_30d.ipset
-links[24]=https://iplists.firehol.org/files/bi_exim_0_1d.ipset
+
 
 
 
